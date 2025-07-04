@@ -182,7 +182,7 @@ Then used:Pivot Table:<br>
 **Values:** Product Name → summarized  values by Count<br>
 
 Insight: it can Helped visualize product affordability and market segmentation. <br>
-![](Amazon_case_TASK10 & 12.png)
+![](Amazon_case_TASK10&12.png)
 
 11. How does the rating relate to the level of discount
 
