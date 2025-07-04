@@ -190,36 +190,40 @@ Insight: it can Helped visualize product affordability and market segmentation. 
 
 **X-axis:** Discount %
 **Y-axis:** Average Rating summarized by Average 
-![](Amazon_ case _TASK11-b.png)
+![](Amazon_case_TASK11a.png)<br>
+
 *Insights : Some products were heavily discounted (up to 90%) but still received low ratings indicating quality issues.
+<br><br>
 
-
-
- 12. To know How many products have fewer than 1,000 reviews
+### TASK 12: To know How many products have fewer than 1,000 reviews
 on my helper work sheet, creat a calculated column on with the formula IF(Review count >= 1000, "Yes", "No")
-Then used COUNT to count the "yes"
-Insight: it Identified products lacking exposure or needing more marketing.
+**Then used COUNT to count the "yes"**<br>
+![](Amazon_case_TASK10&12.png)<br>
+*Insight: it Identified products lacking exposure or needing more marketing.*
+<br><br>
 
+### TASK 13. Which categories have products with the highest discounts <br>
 
-13. Which categories have products with the highest discounts
+I Used the earlier Discount % column <br>
 
-I Used the earlier Discount % column
-
-Pivot Table:
-Rows: Category
-Values: Discount % → summarized by Max
+Pivot Table: <br>
+Rows: Category <br>
+Values: Discount % → summarized by Max <br>
+![](Amazon_case_TASK13.png) <br>
 Insight: it Pinpointed heavily discounted categories, potentially at risk of over-promotion or clearance.
+<br><br>
+       
+### TASK 14. To determine Top 5 products by rating + number of reviews combined  <br>
+**Method:** Create calculated column:  <br>
+**=Average Rating + (Rating Count / Scaling Factor)** <br>
+(I Chosed a factor of 1000 to balance weight) <br>
 
-14. To determine Top 5 products by rating + number of reviews combined
-Method: Create calculated column:
-=Average Rating + (Rating Count / Scaling Factor)
-(I Chosed a factor of 1000 to balance weight)
-
-Then Sorted the Columbus  descending and pick top 5.
-Insight: Balanced popularity and customer satisfaction to identify top performers.
-
-
-Core Findings from the Analysis Task
+**Then Sorted the Columbus  descending and pick top 5.* <br>
+![](Amazon_case_TASK14.png) <br>
+*Insight: Balanced popularity and customer satisfaction to identify top performers.*
+ <br> <br>
+![##see the full excel fiel here](DSA Project_Amazon_case_study_Ex)
+## Core Findings from the Analysis Task
 - Top-rated products were mostly found in the electronics and accessories categories, showing consistent customer satisfaction.
 
 -  Products with high discount percentages attracted more reviews, suggesting a price-sensitivity trend among customers.
