@@ -130,24 +130,23 @@ Discounted Price → summarized values by Average <br>
 ### TASK 6: To determine Which products have the highest number of reviews<br>
 Approach: I Sorted Rating Count column in descending order<br>
 
-*Insight: Flagged popular products that drive the most feedback and interaction*.<br><br>
-
+*Insight: Flagged popular products that drive the most feedback and interaction*.<br>
 ### TASK 7: How many products have a discount of 50% or more <br>
 Method: I Added calculated column name it "Discount % >= 50" <br>
 Computer it with the function =IF(Discount % >= 50, "Yes", "No") <br>
 Then use a COUNTIF to count the "yes" <br><br>
 
-![](Amazon_case_TASK6 & 7.png)
-Insight: Measured the extent of aggressive discounting in the catalog.
+![](Amazon_case_TASK6&7.png)
+*Insight: Measured the extent of aggressive discounting in the catalog.*
+<br><br>
 
-
-8. For Distribution of product ratings
+### TASK 8: For Distribution of product ratings
 
 I used : Pivot Table:
 
-Rows: Rating
-Values: Product Id → summarized by Count.  
-Insight: Assessed overall sentiment and product quality levels.
+**Rows:** Rating
+**Values:** Product Id → summarized by Count.  
+**Insight:** Assessed overall sentiment and product quality levels.*
 
 9. To analysis Total potential revenue by category 
 
