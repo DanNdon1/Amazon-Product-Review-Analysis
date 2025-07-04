@@ -58,6 +58,25 @@ These changes were necessary to avoid errors during filtering, sorting, and perf
 ### Reviewing category-wise summaries and identifying patterns in review counts
 This phase helped ensure data readiness for deeper insights.<br>
 
- :-- Raw Dataset--: | :--cleaned dataset--:
+### Raw Dataset
+ ![](AmazonRawData.png) 
 
+ 
+### leaned Dataset
+ ![](AmazonCleanedDataset.png)
+ 
+<br>
+ 
+## Analysis Tasks
+Following the Exploratory Data Analysis (EDA), further analysis was conducted to derive meaningful business insights. The tasks below were completed using pivot tables and calculated columns, as specified in the project brief. <br>
+
+### TASK 1. 
+To determine average discount percentage by product category  
+Since there is  discount percentage column already in the data set, to validate the values,
+**I added a calculated column: = (Actual Price - Discounted Price) / Actual Price * 100** to confirm the values.
+
+Then l use a **Pivot Table with** <br>
+**Rows**: Category<br>
+**Values:** Discount % → summarized value by Average <br>
+![](Amazon case TASK1.png)
 
