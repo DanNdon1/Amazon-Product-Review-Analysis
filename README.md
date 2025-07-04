@@ -90,7 +90,7 @@ To determine No of products that are listed under each category <br><br>
 **Rows:** Category  <br>
 **Values**: Product id → Summarized value by to Count  <br>
  <br>
-![](Amason_case_TASK2.png)
+![](Amazon_caseTk_2.png)
  <br> <br>
 *Insight: Helped assess product diversity within each category.*
 
@@ -121,21 +121,23 @@ Method Used: Pivot Table< br>
 Actual Price → summarized values by Average <br>
 Discounted Price → summarized values by Average <br>
 <br>
-![](Amazon_case _ASK5.png)<br>
+![](Amazon_case_ASK5.png)<br>
 
-Insight: Helped evaluate pricing competitiveness and customer value perception.
+*Insight: Helped evaluate pricing competitiveness and customer value perception.*
+<br><br>
 
-6. To determine Which products have the highest number of reviews
-Approach: I Sorted Rating Count column in descending order
 
-Insight: Flagged popular products that drive the most feedback and interaction.
+### TASK 6: To determine Which products have the highest number of reviews<br>
+Approach: I Sorted Rating Count column in descending order<br>
 
-7. How many products have a discount of 50% or more
-Method: I Added calculated column name it "Discount % >= 50" 
-Computer it with the function =IF(Discount % >= 50, "Yes", "No")
-Then use a COUNTIF to count the "yes"
+*Insight: Flagged popular products that drive the most feedback and interaction*.<br><br>
 
-(Screenshot)
+### TASK 7: How many products have a discount of 50% or more <br>
+Method: I Added calculated column name it "Discount % >= 50" <br>
+Computer it with the function =IF(Discount % >= 50, "Yes", "No") <br>
+Then use a COUNTIF to count the "yes" <br><br>
+
+![](Amazon_case_TASK6 & 7.png)
 Insight: Measured the extent of aggressive discounting in the catalog.
 
 
