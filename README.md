@@ -1,5 +1,5 @@
 # Amazon-Product-Review-Analysis
-This project was completed as part of a Data Analysis Training Program with IncubatorHub, under the Digital Skillup Africa (DSA) initiative. It simulates the role of a Data Analyst at RetailTech Insight, focusing on analyzing real Amazon product review data. The primary aim was to uncover insights related to customer sentiment, product performance, and pricing effectiveness.
+This project was completed as part of a Data Analysis Training Program with **IncubatorHub**, under the **Digital Skillup Africa (DSA)** initiative. It simulates the role of a Data Analyst at RetailTech Insight, focusing on analyzing real Amazon product review data. The primary aim was to uncover insights related to customer sentiment, product performance, and pricing effectiveness.
 The entire project was executed using Microsoft Excel, demonstrating key data analysis skills such as data cleaning, exploratory data analysis (EDA), analytical thinking, and dashboard reporting.
 
 ## Project Objectives
@@ -108,19 +108,21 @@ I Used Rating Count column
 I Sorted the dataset by the **Average Rating column (descending)*
 And Pick top entries <br>
 
-![](Screen short)
+![](Amazon_case _ASK4.png)
 
 *Insight: This Identified standout products for promotion or feature placement* <br>
 <br><br>
-5. Average Actual Price vs Discounted Price by Category
 
-Method Used: Pivot Table
-Rows: Category
-Values:
-Actual Price → summarized values by Average
-Discounted Price → summarized values by Average
+### TASK 5: Average Actual Price vs Discounted Price by Category <br>
 
-![](Screen short)
+Method Used: Pivot Table< br>
+*Rows**: Category <br>
+*Values:** <br>
+Actual Price → summarized values by Average <br>
+Discounted Price → summarized values by Average <br>
+<br>
+![](Amazon_case _ASK5.png)<br>
+
 Insight: Helped evaluate pricing competitiveness and customer value perception.
 
 6. To determine Which products have the highest number of reviews
