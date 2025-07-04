@@ -78,5 +78,148 @@ Since there is  discount percentage column already in the data set, to validate 
 Then l use a **Pivot Table with** <br>
 **Rows**: Category<br>
 **Values:** Discount % → summarized value by Average <br>
-![](Amazon case TASK1.png)
+![](Amazon_case_TASK1.png)
+
+**Insight:** it Highlighted which categories offer the largest price cuts, guiding discount strategy
+
+
+### TASK 2. To determine No of products that here listed under each category <br><br>
+
+**Pivot Table**: <br>
+**Rows:** Category  <br>
+**Values**: Product id → Summarized value by to Count  <br>
+ <br>
+![](Screen short)
+ <br> <br>
+Insight: Helped assess product diversity within each category.
+
+Insight: it Highlighted which categories offer the 
+
+
+ 3. To determine the Total number of reviews per category 
+I Used Rating Count column
+
+Pivot Table:
+Rows: Category
+Values: Rating Count → Summarized  values by sum
+![](Screen short)
+
+Insight: Revealed which categories receive the most customer engagement.
+
+4. To determine Which products have the highest average ratings
+I Sorted the dataset by the Average Rating column (descending)
+And Pick top entries
+![](Screen short)
+
+Insight: This Identified standout products for promotion or feature placement
+
+5. Average Actual Price vs Discounted Price by Category
+
+Method Used: Pivot Table
+Rows: Category
+Values:
+Actual Price → summarized values by Average
+Discounted Price → summarized values by Average
+
+![](Screen short)
+Insight: Helped evaluate pricing competitiveness and customer value perception.
+
+6. To determine Which products have the highest number of reviews
+Approach: I Sorted Rating Count column in descending order
+
+Insight: Flagged popular products that drive the most feedback and interaction.
+
+7. How many products have a discount of 50% or more
+Method: I Added calculated column name it "Discount % >= 50" 
+Computer it with the function =IF(Discount % >= 50, "Yes", "No")
+Then use a COUNTIF to count the "yes"
+
+(Screenshot)
+Insight: Measured the extent of aggressive discounting in the catalog.
+
+
+8. For Distribution of product ratings
+
+I used : Pivot Table:
+
+Rows: Rating
+Values: Product Id → summarized by Count.  
+Insight: Assessed overall sentiment and product quality levels.
+
+9. To analysis Total potential revenue by category 
+
+Method used calculated column with Pivot table
+Calculated column: "potential Revenue"
+Then used this formula to filled it =Actual Price * Rating Count
+
+Pivot Table:
+Rows: Category
+Values: Potential Revenue → Summarized by sum
+Insight: Estimated sales opportunity and high-performing categories.
+
+
+10. Number of unique products per price range bucket
+Created a new column - Price Bucket:
+Excel formular=IF(Discounted Price < 200, "<₹200",IF(Discounted Price <= 500, "₹200–₹500", ">₹500")) 
+Then used:Pivot Table:
+Rows: Price Bucket
+Values: Product Name → summarized  values by Count
+
+Insight: it can Helped visualize product affordability and market segmentation.
+
+11. How does the rating relate to the level of discount
+
+Method used: Create a scatter chart:
+
+X-axis: Discount %
+Y-axis: Average Rating summarized by Average 
+
+Insights : Some products were heavily discounted (up to 90%) but still received low ratings indicating quality issues.
+
+
+
+ 12. To know How many products have fewer than 1,000 reviews
+on my helper work sheet, creat a calculated column on with the formula IF(Review count >= 1000, "Yes", "No")
+Then used COUNT to count the "yes"
+Insight: it Identified products lacking exposure or needing more marketing.
+
+
+13. Which categories have products with the highest discounts
+
+I Used the earlier Discount % column
+
+Pivot Table:
+Rows: Category
+Values: Discount % → summarized by Max
+Insight: it Pinpointed heavily discounted categories, potentially at risk of over-promotion or clearance.
+
+14. To determine Top 5 products by rating + number of reviews combined
+Method: Create calculated column:
+=Average Rating + (Rating Count / Scaling Factor)
+(I Chosed a factor of 1000 to balance weight)
+
+Then Sorted the Columbus  descending and pick top 5.
+Insight: Balanced popularity and customer satisfaction to identify top performers.
+
+
+Core Findings from the Analysis Task
+- Top-rated products were mostly found in the electronics and accessories categories, showing consistent customer satisfaction.
+
+-  Products with high discount percentages attracted more reviews, suggesting a price-sensitivity trend among customers.
+
+- Customer ratings generally leaned positive, with a majority of products rated between 4.0 and 5.0 stars.
+
+- Pricing effectiveness varied 
+          (a) some highly-priced items still performed well, indicating value-driven buying behavior.
+            (b)Most products had ratings between  4.0 and 5.0, suggesting general customer satisfaction.
+            (c) Some products were heavily discounted (up to **90%**) but still received low ratings, indicating quality issues.
+ - Most products had ratings between  4.0 and 5.0, suggesting general customer satisfaction.
+- Review patterns helped reveal customer priorities like durability, charging speed, and compatibility in tech-related products.
+
+##Tools /Technique Used
+Microsoft Excel 2016
+Data Cleaning (Find & Replace, Filters, Formulas)
+Exploratory Data Analysis (Pivot Tables, Charts)
+Conditional Formatting
+Dashboard Design & Reporting
 
