@@ -222,7 +222,7 @@ Insight: it Pinpointed heavily discounted categories, potentially at risk of ove
 ![](Amazon_case_TASK14.png) <br>
 *Insight: Balanced popularity and customer satisfaction to identify top performers.*
  <br> <br>
-> see complete excel filesand dashboard here: (https://drive.google.com/drive/folders/1CBAinrTjmt7p3_YVERHFxAD0Cw-BCpXC?usp=drive_link)
+> see complete excel filesand dashboard here: (https://drive.google.com/drive/folders/1Jka71lzCMQHbW55RswQ6sx3Ik9pnt7zC?usp=drive_link)
 ## Core Findings from the Analysis Task
 - Top-rated products were mostly found in the electronics and accessories categories, showing consistent customer satisfaction.
 
@@ -258,7 +258,7 @@ Insight: it Pinpointed heavily discounted categories, potentially at risk of ove
 ### Dashboard:
 ![](Amazon_product_review_dashboard.png) <br>
 
- > Click here to access the complete project Excel file and interactive dashboard via Google Drive: (https://drive.google.com/drive/folders/1CBAinrTjmt7p3_YVERHFxAD0Cw-BCpXC?usp=drive_link) <br>
+ > Click here to access the complete project Excel file and interactive dashboard via Google Drive: (https://drive.google.com/drive/folders/1Jka71lzCMQHbW55RswQ6sx3Ik9pnt7zC?usp=drive_link) <br>
 ## Acknowledgement
 I would like to express my sincere gratitude to God for the strength and wisdom to complete this project. My heartfelt thanks go to **IncubatorHub** and the **Digital Skillup Africa (DSA)** program, Pastor E. A. Aeboye, RCCG for the opportunity, training, and support throughout this journey. I am also thankful to my mentors, **Mr.Hameed Mushin, Mr. Temidayo Teedee Ayeni, Mr. Ayodele Femi** and  fellow learners, and the entire learning community for their invaluable guidance, encouragement, and feedback during the course of this Amazon Product Review Analysis project.<br>
 
