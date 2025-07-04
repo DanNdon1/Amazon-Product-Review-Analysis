@@ -108,7 +108,7 @@ I Used Rating Count column
 I Sorted the dataset by the **Average Rating column (descending)*
 And Pick top entries <br>
 
-![](Amazon_case _ASK4.png)
+![](Amazon_case_ASK4.png)
 
 *Insight: This Identified standout products for promotion or feature placement* <br>
 <br><br>
