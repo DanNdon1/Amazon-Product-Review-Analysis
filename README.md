@@ -237,10 +237,39 @@ Insight: it Pinpointed heavily discounted categories, potentially at risk of ove
  - Most products had ratings between  4.0 and 5.0, suggesting general customer satisfaction.
 - Review patterns helped reveal customer priorities like durability, charging speed, and compatibility in tech-related products.
 
-##Tools /Technique Used
-Microsoft Excel 2016
-Data Cleaning (Find & Replace, Filters, Formulas)
-Exploratory Data Analysis (Pivot Tables, Charts)
-Conditional Formatting
+## Tools /Technique Used
+ - Microsoft Excel 2016
+ - Data Cleaning (Find & Replace, Filters, Formulas)
+ - Exploratory Data Analysis (Pivot Tables, Charts)
+ - Conditional Formatting
+ - Dashboard Design & Reporting
+<br><br>
+
 Dashboard Design & Reporting
+
+## Dashboard Preview
+
+> A fully interactive Excel dashboard was built to visualize findings using:
+- Pivot Charts (bar, column, pie, scatter)
+- Slicers Tag "filter here" on the dashboard (is by category, price range)
+- Conditional Formatting
+- Key KPIs: Total Reviews, Average Rating, Product Count.......
+
+### Dashboard Image:
+![]()
+
+ > Click here to access the complete project Excel file and interactive dashboard via Google Drive: (https://drive.google.com/drive/folders/1CBAinrTjmt7p3_YVERHFxAD0Cw-BCpXC?usp=drive_link) <br>
+## Acknowledgment
+This project was developed as part of my data analysis training with Digital SkillUp Africa (DSA) and IncubatorHub. Special thanks to my mentors, fellow learners, and the learning community for their guidance and feedback throughout the process.
+
+The analysis was carried out in Microsoft Excel using real-world e-commerce data to demonstrate skills in data cleaning, exploratory analysis, calculated fields, pivot tables, and dashboard creation.
+
+
+Author
+Daniel Ndon
+Aspiring Data Analyst
+#DigitalSkillupAfrica (DSA)
+#IncubatorHub
+
+This case study was completed as part of a data analysis learning project under the IncubatorHub - Digital Skillup Africa (DSA) program.
 
