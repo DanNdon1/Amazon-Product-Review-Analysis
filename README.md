@@ -184,14 +184,14 @@ Then used:Pivot Table:<br>
 Insight: it can Helped visualize product affordability and market segmentation. <br>
 ![](Amazon_case_TASK10&12.png)
 
-11. How does the rating relate to the level of discount
+### TASK 11. How does the rating relate to the level of discount
 
-Method used: Create a scatter chart:
+**Method used:** Create a scatter chart:
 
-X-axis: Discount %
-Y-axis: Average Rating summarized by Average 
-
-Insights : Some products were heavily discounted (up to 90%) but still received low ratings indicating quality issues.
+**X-axis:** Discount %
+**Y-axis:** Average Rating summarized by Average 
+![](Amazon_ case _TASK11-b.png)
+*Insights : Some products were heavily discounted (up to 90%) but still received low ratings indicating quality issues.
 
 
 
