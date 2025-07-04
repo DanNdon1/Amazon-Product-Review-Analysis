@@ -146,28 +146,43 @@ I used : Pivot Table:
 
 **Rows:** Rating
 **Values:** Product Id → summarized by Count.  
-**Insight:** Assessed overall sentiment and product quality levels.*
+**Insight:** Assessed overall sentiment and product quality levels.* <br>
+<table>
+  <tr>
+    <td align="center">
+      <strong>Task_8</strong><br>
+      <img src="Amazon_case_TASK8-a.png">
+    </td>
+    <td align="center">
+      <strong>task_8</strong><br>
+      <img src="Amazon_case_TASK8-b.png">
+    </td>
+  </tr>
+</table> <br><br>
 
-9. To analysis Total potential revenue by category 
 
-Method used calculated column with Pivot table
-Calculated column: "potential Revenue"
-Then used this formula to filled it =Actual Price * Rating Count
+### TASK 9. To analysis Total potential revenue by category <br>
 
-Pivot Table:
-Rows: Category
-Values: Potential Revenue → Summarized by sum
-Insight: Estimated sales opportunity and high-performing categories.
+*Method used calculated column with Pivot table* <br>
+**Calculated column:** "potential Revenue"<br>
+Then used this formula to filled it *=Actual Price * Rating Count* <br>
 
+**Pivot Table:**<br>
+**Rows:** Category<br>
+**Values:** Potential Revenue → Summarized by sum<br>
+*Insight: Estimated sales opportunity and high-performing categories.*<br>
+![](Amazon_case_TASK9.png)
+<br>
 
-10. Number of unique products per price range bucket
-Created a new column - Price Bucket:
-Excel formular=IF(Discounted Price < 200, "<₹200",IF(Discounted Price <= 500, "₹200–₹500", ">₹500")) 
-Then used:Pivot Table:
-Rows: Price Bucket
-Values: Product Name → summarized  values by Count
+### TASK 10. Number of unique products per price range bucket
+**Created a new column** - Price Bucket:<br>
+**Excel formular =IF(Discounted Price < 200, "<₹200",IF(Discounted Price <= 500, "₹200–₹500", ">₹500")) <br>
+Then used:Pivot Table:<br>
+**Rows:** Price Bucket <br>
+**Values:** Product Name → summarized  values by Count<br>
 
-Insight: it can Helped visualize product affordability and market segmentation.
+Insight: it can Helped visualize product affordability and market segmentation. <br>
+![](Amazon_case_TASK10 & 12.png)
 
 11. How does the rating relate to the level of discount
 
