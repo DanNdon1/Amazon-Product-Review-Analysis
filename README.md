@@ -256,20 +256,17 @@ Insight: it Pinpointed heavily discounted categories, potentially at risk of ove
 - Key KPIs: Total Reviews, Average Rating, Product Count.<br>
 
 ### Dashboard:
-![](Amazon_product_review_dashboard.png)
+![](Amazon_product_review_dashboard.png) <br>
 
  > Click here to access the complete project Excel file and interactive dashboard via Google Drive: (https://drive.google.com/drive/folders/1CBAinrTjmt7p3_YVERHFxAD0Cw-BCpXC?usp=drive_link) <br>
-## Acknowledgment
-This project was developed as part of my data analysis training with Digital SkillUp Africa (DSA) and IncubatorHub. Special thanks to my mentors, fellow learners, and the learning community for their guidance and feedback throughout the process.
-
-The analysis was carried out in Microsoft Excel using real-world e-commerce data to demonstrate skills in data cleaning, exploratory analysis, calculated fields, pivot tables, and dashboard creation.
+## Acknowledgement
+I would like to express my sincere gratitude to God for the strength and wisdom to complete this project. My heartfelt thanks go to **IncubatorHub** and the **Digital Skillup Africa (DSA)** program, Pastor E. A. Aeboye, RCCG for the opportunity, training, and support throughout this journey. I am also thankful to my mentors, **Mr.Hameed Mushin, Mr. Temidayo Teedee Ayeni, Mr. Ayodele Femi** and  fellow learners, and the entire learning community for their invaluable guidance, encouragement, and feedback during the course of this Amazon Product Review Analysis project.<br>
 
 
-Author
-Daniel Ndon
-Aspiring Data Analyst
-#DigitalSkillupAfrica (DSA)
-#IncubatorHub
+### Daniel Ndon <br>
+*#Aspiring Data Analyst* <br>
+*#Digital Skillup Africa (DSA)*<br>
+*#IncubatorHub*
 
-This case study was completed as part of a data analysis learning project under the IncubatorHub - Digital Skillup Africa (DSA) program.
+> This case study was completed as part of a data analysis learning project under the IncubatorHub - Digital Skillup Africa (DSA) program.
 
