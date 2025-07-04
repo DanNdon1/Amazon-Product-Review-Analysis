@@ -80,39 +80,38 @@ Then l use a **Pivot Table with** <br>
 **Values:** Discount % → summarized value by Average <br>
 ![](Amazon_case_TASK1.png)
 
-**Insight:** it Highlighted which categories offer the largest price cuts, guiding discount strategy
+*Insight:** it Highlighted which categories offer the largest price cuts, guiding discount strategy*
 
 
-### TASK 2. To determine No of products that here listed under each category <br><br>
+### TASK 2.
+To determine No of products that are listed under each category <br><br>
 
 **Pivot Table**: <br>
 **Rows:** Category  <br>
 **Values**: Product id → Summarized value by to Count  <br>
  <br>
-![](Screen short)
+![](Amason_case_TASK2.png)
  <br> <br>
-Insight: Helped assess product diversity within each category.
+*Insight: Helped assess product diversity within each category.*
 
-Insight: it Highlighted which categories offer the 
-
-
- 3. To determine the Total number of reviews per category 
+### TASK 3. To determine the Total number of reviews per category 
 I Used Rating Count column
 
-Pivot Table:
-Rows: Category
-Values: Rating Count → Summarized  values by sum
+**Pivot Table:** <br>
+**Rows:** Category <br>
+**Values**: Rating Count → Summarized  values by sum <br>
+![](Amazon_case_Task3.png)
+
+*Insight: Revealed which categories receive the most customer engagement.*  <br> <br>
+
+### TASK 4. To determine Which products have the highest average ratings <br>
+I Sorted the dataset by the **Average Rating column (descending)*
+And Pick top entries <br>
+
 ![](Screen short)
 
-Insight: Revealed which categories receive the most customer engagement.
-
-4. To determine Which products have the highest average ratings
-I Sorted the dataset by the Average Rating column (descending)
-And Pick top entries
-![](Screen short)
-
-Insight: This Identified standout products for promotion or feature placement
-
+*Insight: This Identified standout products for promotion or feature placement* <br>
+<br><br>
 5. Average Actual Price vs Discounted Price by Category
 
 Method Used: Pivot Table
