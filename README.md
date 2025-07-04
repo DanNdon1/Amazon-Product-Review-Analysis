@@ -222,7 +222,7 @@ Insight: it Pinpointed heavily discounted categories, potentially at risk of ove
 ![](Amazon_case_TASK14.png) <br>
 *Insight: Balanced popularity and customer satisfaction to identify top performers.*
  <br> <br>
-![##see the full excel fiel here](DSA Project_Amazon_case_study_Ex)
+> see complete excel filesand dashboard here: (https://drive.google.com/drive/folders/1jT89aD3MuCxFUdYQdyRfB3UchaTBTFMe?usp=drive_link)
 ## Core Findings from the Analysis Task
 - Top-rated products were mostly found in the electronics and accessories categories, showing consistent customer satisfaction.
 
