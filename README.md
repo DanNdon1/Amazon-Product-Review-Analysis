@@ -245,7 +245,7 @@ Insight: it Pinpointed heavily discounted categories, potentially at risk of ove
  - Dashboard Design & Reporting
 <br><br>
 
-Dashboard Design & Reporting
+## Dashboard Design & Reporting
 
 ## Dashboard Preview
 
@@ -253,10 +253,10 @@ Dashboard Design & Reporting
 - Pivot Charts (bar, column, pie, scatter)
 - Slicers Tag "filter here" on the dashboard (is by category, price range)
 - Conditional Formatting
-- Key KPIs: Total Reviews, Average Rating, Product Count.......
+- Key KPIs: Total Reviews, Average Rating, Product Count.<br>
 
-### Dashboard Image:
-![]()
+### Dashboard:
+![](Amazon_product_review_dashboard.png)
 
  > Click here to access the complete project Excel file and interactive dashboard via Google Drive: (https://drive.google.com/drive/folders/1CBAinrTjmt7p3_YVERHFxAD0Cw-BCpXC?usp=drive_link) <br>
 ## Acknowledgment
