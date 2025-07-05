@@ -1,4 +1,5 @@
-# Amazon-Product-Review-Analysis
+# Amazon-Product-Review-Analysis <br>
+![](DSA_achiement_bage1.png)
 This project was completed as part of a Data Analysis Training Program with **IncubatorHub**, under the **Digital Skillup Africa (DSA)** initiative. It simulates the role of a Data Analyst at RetailTech Insight, focusing on analyzing real Amazon product review data. The primary aim was to uncover insights related to customer sentiment, product performance, and pricing effectiveness.
 The entire project was executed using Microsoft Excel, demonstrating key data analysis skills such as data cleaning, exploratory data analysis (EDA), analytical thinking, and dashboard reporting.
 
@@ -256,7 +257,7 @@ Insight: it Pinpointed heavily discounted categories, potentially at risk of ove
 - Key KPIs: Total Reviews, Average Rating, Product Count.<br>
 
 ### Dashboard:
-![](Amazon_product_review_dashboard.png) <br>
+![](dashboard.png) <br>
 
  > Click here to access the complete project Excel file and interactive dashboard via Google Drive: (https://drive.google.com/drive/folders/1Jka71lzCMQHbW55RswQ6sx3Ik9pnt7zC?usp=drive_link) <br>
 ## Acknowledgement
